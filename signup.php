@@ -1,5 +1,3 @@
-
-
 <?php
 
 $db_server = "localhost";
@@ -27,6 +25,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST["submit"])) {
 
     header("location:login.php");
 }
+
+
 
 ?>
 

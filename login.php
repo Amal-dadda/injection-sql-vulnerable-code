@@ -1,4 +1,4 @@
-<!--  commande pour le test : ' OR '1=1     -->
+<!--  exemple de commande pour le test : ' OR '1=1 ,     -->
 
 <?php
 session_start();
